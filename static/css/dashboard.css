@@ -1,0 +1,30 @@
+.cuerpo {
+    background-color: #FFF059;
+    background-image: url(../images/dog.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* Cambia el valor según la opacidad deseada (0.7 = 70%) */
+}
+
+#borderE {
+    border-radius: 1px solid black;
+    padding-top: 10%;
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.row {
+    color: white;
+}
+
+h2 {
+    color: aliceblue
+}
+
+.sbt {
+    padding-bottom: 250px;
+}

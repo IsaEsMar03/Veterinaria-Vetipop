@@ -1,0 +1,99 @@
+body {
+    background-image: url("../images/fondoLogin.jpg");
+    background-repeat: none;
+    zoom:60%
+}
+
+.height {
+    background: #f5f5f5 url(C:\Users\ceron\OneDrive\Escritorio\login\static\images\image.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.login-dark form {
+    max-width: 320px;
+    width: 90%;
+    background-color: #136570;
+    padding: 40px;
+    border-radius: 4px;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.2);
+}
+
+.login-dark .illustration {
+    text-align: center;
+    padding: 15px 0 20px;
+    font-size: 100px;
+    color: #2980ef;
+}
+
+.login-dark form .form-control {
+    background: none;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 5;
+    box-shadow: none;
+    outline: none;
+    color: inherit;
+}
+
+.login-dark form .btn-primary {
+    background: #802136;
+    border: none;
+    border-radius: 4px;
+    padding: 11px;
+    box-shadow: none;
+    margin-top: 26px;
+    text-shadow: none;
+    outline: none;
+}
+
+.login-dark form .btn-primary:hover,
+.login-dark form .btn-primary:active {
+    background: #ffffff;
+    outline: none;
+}
+
+.login-dark form .forgot {
+    display: block;
+    text-align: center;
+    font-size: 12px;
+    color: #ffffff;
+    opacity: 0.6;
+    text-decoration: none;
+}
+
+.login-dark form .forgot:hover,
+.login-dark form .forgot:active {
+    opacity: 1;
+    text-decoration: none;
+}
+
+.login-dark form .btn-primary:active {
+    transform: translateY(1px);
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.slider-container {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.slide {
+    display: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
